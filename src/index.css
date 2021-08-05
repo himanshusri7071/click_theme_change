@@ -1,0 +1,34 @@
+*{ 
+ box-sizing: border-box;
+ padding: 0;
+ margin: 0;
+ background-color: antiquewhite;
+
+}
+
+div{
+    width: 100%;
+    height: 100vh;
+    background: bisque;
+    display: flex;
+    flex-direction: column;
+    justify-content: baseline;
+    align-items: center;
+}
+
+h1{
+    color:blueviolet;
+    background: chartreuse;
+    text-shadow: coral;
+}
+
+button{
+    padding: 12px 20px;
+    background: coral;
+    color:darkgreen;
+    border-radius: 5px;
+    text-transform: uppercase;
+    cursor: pointer;
+    
+
+}
